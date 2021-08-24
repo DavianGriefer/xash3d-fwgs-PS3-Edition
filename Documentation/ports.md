@@ -29,7 +29,7 @@ Table is sorted by status.
 | Switch          | In progress                | @fgsfdsfgs           | [Github Repository](https://github.com/fgsfdsfgs/xash3d-fwgs/tree/switch_new) 
 | Wii             | In progress                | Collaborative effort | [Github Repository](https://github.com/saucesaft/xash3d-wii) 
 | PSP             | In progress                | Collaborative effort | No sources available at this moment
-| PS3             | In progress                | @DavianGriefer       | [Github Repository] (https://github.com/DavianGriefer/Xash3d-fwgs-PS3-Edition)
+| PS3             | In progress                | @DavianGriefer       | [Github Repository](https://github.com/DavianGriefer/Xash3d-fwgs-PS3-Edition)
 | Emscripten      | Old Engine                 | not maintained       | 
 | Oculus Quest    | Old Engine fork            | @DrBeef              | [GitHub Repository](https://github.com/DrBeef/Lambda1VR)
 | PSVita          | Old Engine fork            | not maintained       | [GitHub Repository](https://github.com/fgsfdsfgs/vitaXash3D)
